@@ -105,7 +105,7 @@ const Landing = () => {
       <main style={styles.main}>
         <div style={styles.hero}>
           <h1 style={styles.title} className="typewriter">
-            AI-Powered Caption Generation <span style={styles.titleAccent}>.</span>
+            AI-Powered Caption Generation <span style={styles.titleAccent}></span>
           </h1>
           <p style={styles.subtitle}>
             Advanced agentic AI with HFRL technology to create perfect captions for your content
