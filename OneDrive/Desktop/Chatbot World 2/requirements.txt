@@ -1,0 +1,7 @@
+flask
+langchain-core
+langgraph>=0.2.27
+langchain[google-genai]
+google-generativeai
+grpcio
+python-dotenv 

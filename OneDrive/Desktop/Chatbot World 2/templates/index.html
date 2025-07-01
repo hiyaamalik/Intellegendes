@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HealthAssist - Your Smart Health Companion</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="main-header">
+    <div class="header-left">
+      <img src="https://cdn-icons-png.flaticon.com/512/3774/3774299.png" alt="HealthAssist Logo" class="header-logo" />
+      <span class="header-title">HealthAssist</span>
+    </div>
+    <div class="header-right">
+      <button class="header-help" title="Help"><span>?</span></button>
+      <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="User Avatar" class="header-avatar" />
+    </div>
+  </header>
+  <div class="background-pattern"></div>
+  <div class="main-flex">
+    <main class="chat-section">
+      <h1 class="page-title">Your Smart Health Companion</h1>
+      <section id="chat-area" class="chat-area"></section>
+      <form id="chat-input-bar" class="chat-input-bar" autocomplete="off">
+        <input id="chat-input" type="text" placeholder="Type your message..." autocomplete="off" />
+        <button type="submit" id="send-btn" class="icon-btn" aria-label="Send">
+          <span class="send-icon">Send</span>
+        </button>
+      </form>
+      <div id="loader" class="loader" style="display:none;">
+        <span></span><span></span><span></span>
+      </div>
+      <div id="onboarding-panel" class="onboarding-panel"></div>
+    </main>
+    <aside id="profile-panel" class="profile-panel">
+      <div class="profile-header">
+        <span class="profile-icon">👤</span>
+        <h3>Your Health Profile</h3>
+      </div>
+      <div id="profile-content" class="profile-content">
+        <div class="profile-placeholder">Start answering to build your profile...</div>
+      </div>
+    </aside>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="/static/chatbot.js"></script>
+  <script src="/static/profile.js"></script>
+</body>
+</html> 
