@@ -1,0 +1,791 @@
+Label,Mood,Caption
+God,Philosophical,Why love the creation when you can love the Creator?
+"Krishna, Music",Emotional,His melody touches hearts beyond words.
+God,Poetic,"In the lotus of silence, a god hums his tune."
+Flute,Spiritual,"The flute is not played, it is surrendered to."
+"Girl, poetry, poem",Poetic,She lives the poetry she cannot write
+"GIrl, Sunset",Philosophical,Her heart was made up of liquid sunsets
+"Plants, Growth",Poetic,How lovely is the silence of growing things
+"Lanterns, Me",Philosophical,I am out with lanterns looking for myself
+Girl,Philosophical,She was mystically delicate
+"Love, Girl",Poetic,"Love, the poet said, is woman's whole existence"
+Eyes,Philosophical,Her honey brown eyes and her loveliness
+Eyes,Emotional,Pretty brown eyes and a mind full of thoughts
+History,Emotional,The lesson of history is that no one learns
+"Library, books",Spiritual,"When I have a house of my own, I shall be miserable if I have not an excellent library"
+"Girl, books",Philosophical,For all the girls who found themselves in books
+Love,Poetic,The very essence of romance is uncertainity
+"Love, Fairytale",Poetic,"Once in a while, right in the middle of an ordinary life, love gives us a fairy tale."
+"Love, FairyTale",Spiritual,There's a gain of truth in every fairytale.
+Girl,Philosophical,With the stars in her eyes and the wind in her hair.
+Stars,Philosophical,"I know nothing with any certainity, but the sight of the stars makes me dream"
+Change,Emotional,I knew who I was this morning but I have changed a few times since then
+Me,Spiritual,"To the divine, mischievous spark in you"
+Life,Emotional,And yet the only exciting life is the imaginary one
+Autumn,Emotional,How I feel the autumn's ache
+"Story, Life",Philosophical,But how could you live and have no story to tell?
+Me,Philosophical,A cloud swims in my head
+"Universe, Me",Spiritual,The whole universe interests me
+"Window, Rain",Emotional,Behind every rainy window is a heart waiting to be understood.
+"Eyes, Ocean",Poetic,Her eyes held the calm chaos of oceans in a storm.
+"Letters, Memories",Emotional,Some memories arrive like unopened letters — heavy with unsaid things.
+"Life, garden",Poetic,"In a world that rushes, let your life grow like a garden."
+Silence,Philosophical,In the gaps between words I found myself.
+Journey,Philosophical,The path matters more than the destination ever could.
+Time,Philosophical,Collecting moments not things.
+Freedom,Philosophical,Freedom is nothing but the distance between the hunter and the hunted.
+Mountains,Philosophical,The mountains whispered secrets only silence could translate.
+Decisions,Philosophical,Every choice is a brush stroke on the canvas of life.
+Reflection,Philosophical,Sometimes looking back is the only way to move forward.
+Identity,Philosophical,"I am a constellation of contradictions, beautifully incomplete."
+Perspective,Philosophical,"Change the lens, and the whole world transforms."
+Soul,Philosophical,Your soul is a river running toward an ocean of possibilities.
+Moon,Poetic,Dancing with shadows under a silver-tongued moon.
+Flowers,Poetic,Wildflowers don't care where they grow.
+Soul,Poetic,My soul blooms with the flowers I never planted.
+Winter,Poetic,Snowflakes are winter's butterflies.
+Dreams,Poetic,Dreams are stars you catch when no one's looking.
+Forest,Poetic,The forest knows all my secrets and keeps them wrapped in moss.
+Ocean,Poetic,"Salt water cures everything: sweat, tears, or the sea."
+Clouds,Poetic,Building castles in the clouds since forever.
+Hands,Poetic,These hands have held thunder and whispered to rain.
+Heart,Poetic,My heart is a library of dog-eared pages.
+Courage,Emotional,"Courage doesn't always roar. Sometimes it's the quiet voice saying ""I'll try again tomorrow."""
+Healing,Emotional,Broken crayons still color the most beautiful pictures.
+Growth,Emotional,Growing through what I'm going through.
+Acceptance,Emotional,Finally wearing my scars like constellations.
+Memory,Emotional,"Some memories never fade, just hide behind newer ones."
+Gratitude,Emotional,Counting stars instead of shadows.
+Longing,Emotional,Distance is just a test to see how far love can travel.
+Vulnerability,Emotional,Being vulnerable isn't weakness; it's the bravest thing we do.
+Friendship,Emotional,Friends are the family we choose for ourselves.
+Nostalgia,Emotional,Nostalgia is a time machine with broken controls.
+Meditation,Spiritual,Finding infinity in a single breath.
+Faith,Spiritual,Faith is the bird that feels the light when the dawn is still dark.
+Universe,Spiritual,The universe conspires in favor of those who dream.
+Soul,Spiritual,Your soul recognizes what your mind cannot explain.
+Divinity,Spiritual,Divine timing makes no mistakes.
+Enlightenment,Spiritual,The light you seek has always been within.
+Balance,Spiritual,"Balance isn't something you find, it's something you create."
+Sacred,Spiritual,"Even in chaos, there is a sacred geometry."
+Nature,Spiritual,Nature speaks to those who listen with their soul.
+Transformation,Spiritual,Caterpillars don't understand butterflies until they become one.
+Coffee,Funny,"My blood type is coffee negative. Send help, preferably caffeinated."
+Sleep,Funny,My bed is a magical place where I suddenly remember everything I was supposed to do.
+Monday,Funny,Monday should be optional.
+Adulting,Funny,Adulting: when your Netflix asks if you're still watching and you feel personally attacked.
+Food,Funny,"I'm on a seafood diet. I see food, and I eat it."
+Workout,Funny,My workout routine consists of running out of patience and jumping to conclusions.
+Selfie,Funny,I asked Siri how I looked today. She activated the front camera and quit her job.
+Friends,Funny,Friends don't let friends do silly things... alone.
+Weekend,Funny,"Weekend, please don't leave me."
+Diet,Funny,My diet starts tomorrow. A sentence I've repeated for 10 years.
+Sunshine,Happy,Collecting sunshine and good vibes.
+Laughter,Happy,Laughter is the soundtrack of my best memories.
+Joy,Happy,Finding joy in the ordinary creates extraordinary life.
+Celebration,Happy,Here's to the moments that take our breath away.
+Friendship,Happy,Life is better when you're laughing with friends.
+Adventure,Happy,Adventure awaits those brave enough to say yes.
+Gratitude,Happy,Grateful for every sunrise that gives me one more day.
+Dreams,Happy,Dreams taste like cotton candy when they come true.
+Love,Happy,Love turns ordinary days into extraordinary memories.
+Playfulness,Happy,Never too old for ice cream or jumping in puddles.
+Success,Motivational,"The climb is tough, but the view makes it all worthwhile."
+Perseverance,Motivational,"Fall seven times, stand up eight."
+Goals,Motivational,The dream doesn't work unless you do.
+Ambition,Motivational,Ambition is the first step to success. The second step is action.
+Challenge,Motivational,The greatest glory comes from rising after falling.
+Strength,Motivational,Your strongest muscle and your worst enemy is your mind.
+Progress,Motivational,"Progress over perfection, always."
+Vision,Motivational,"When vision becomes action, dreams become reality."
+Potential,Motivational,Your potential is endless. Go do what you were created to do.
+Determination,Motivational,Your only limit is the one you set yourself.
+Perseverance,Motivational,The difference between a successful person and others is not lack of strength or knowledge but rather lack of will.
+Drive,Motivational,Drive is what takes you from intention to accomplishment.
+Achievement,Motivational,The harder you work for something the greater you'll feel when you achieve it.
+Winning,Motivational,Winning isn't everything but wanting to win is.
+Focus,Motivational,Where focus goes energy flows.
+Commitment,Motivational,Commitment is what transforms a promise into reality.
+Passion,Motivational,Passion will move men beyond themselves beyond their shortcomings beyond their failures.
+Direction,Motivational,If you don't know where you're going any road will get you there.
+Challenge,Motivational,Life's challenges are not supposed to paralyze you; they're supposed to help you discover who you are.
+Rainbow,Nature,Rainbows are the smiles of sunshine through tears.
+Horizon,Nature,The horizon changes but the sun does not.
+Aurora,Nature,The aurora is Earth's poetry written in light.
+Dunes,Nature,Sand dunes are nature's artistic signature.
+Coral Reef,Nature,Coral reefs are the rainforests of the sea.
+Marsh,Nature,The marsh knows secrets that the ocean never tells.
+Ravine,Nature,Standing at the edge of a ravine teaches you the value of solid ground.
+Cavern,Nature,Caverns remind us that even darkness can be beautiful.
+Geyser,Nature,Like a geyser true character eventually surfaces.
+Tundra,Nature,The tundra teaches resilience in the face of harsh conditions.
+Values,Philosophical,Your beliefs become your thoughts your thoughts become your words your words become your actions.
+Illusion,Philosophical,Reality is merely an illusion albeit a very persistent one.
+Thought,Philosophical,The world as we have created it is a process of our thinking.
+Mystery,Philosophical,The most beautiful thing we can experience is the mysterious.
+Absurdity,Philosophical,In the midst of chaos there is also opportunity.
+Possibility,Philosophical,The possible's slow fuse is lit by the imagination.
+Humanity,Philosophical,We are not what we know but what we are willing to learn.
+Paradox,Philosophical,Life is a preparation for the future; and the best preparation for the future is to live as if there were none.
+Legacy,Philosophical,Carve your name on hearts not on marble.
+Enlightenment,Philosophical,Enlightenment is not a state to be achieved but a recognition of what already is.
+Echo,Poetic,Some words linger like echoes in empty rooms.
+Poetry,Poetic,Poetry is what happens when your mind stops working and for a moment all you do is feel.
+Ink,Poetic,Some souls are written in ink others merely penciled in.
+Prose,Poetic,Life isn't written in prose; it's poetry in motion.
+Symphony,Poetic,A symphony plays in the space between heartbeats.
+Ballad,Poetic,Every love story is a ballad waiting to be sung.
+Soliloquy,Poetic,The mind's soliloquy is the heart's dialogue.
+Cadence,Poetic,Find your own cadence in the rhythm of life.
+Metaphor,Poetic,We are all metaphors of the universe dreaming.
+Limerick,Poetic,Life sometimes rhymes like a cosmic limerick.
+Trust,Emotional,Trust takes years to build seconds to break and forever to repair.
+Affection,Emotional,Affection is the poetry of the flesh.
+Jealousy,Emotional,Jealousy is the tribute mediocrity pays to genius.
+Fear,Emotional,Fear is temporary. Regret is forever.
+Anger,Emotional,For every minute you are angry you lose sixty seconds of happiness.
+Anticipation,Emotional,Anticipation is the heart's greatest pleasure.
+Sympathy,Emotional,Sympathy is a language that the dumb can speak and the deaf can understand.
+Worry,Emotional,Worry often gives a small thing a big shadow.
+Compassion,Emotional,Compassion is the radicalism of our time.
+Guilt,Emotional,Guilt is to the spirit what pain is to the body.
+Mindfulness,Spiritual,Mindfulness isn't difficult. We just need to remember to do it.
+Atonement,Spiritual,Atonement is the restoration of the relationship between you and life.
+Surrender,Spiritual,Surrender to what is. Let go of what was. Have faith in what will be.
+Enlightenment,Spiritual,Enlightenment is the journey from the head to the heart.
+Ritual,Spiritual,Rituals are the formulas by which harmony is restored.
+Om,Spiritual,The sound of Om is the sound of the universe speaking.
+Yoga,Spiritual,Yoga is not about touching your toes it's about what you learn on the way down.
+Transcendence,Spiritual,Transcendence is not losing yourself but finding yourself in something greater.
+Dharma,Spiritual,Your dharma is the song your soul came to sing.
+Alchemy,Spiritual,True alchemy lies in this formula: Your beliefs become your thoughts your thoughts become your words.
+Family,Funny,Family is like fudge – mostly sweet with a few nuts.
+Marriage,Funny,Marriage is finding that one special person you want to annoy for the rest of your life.
+Shopping,Funny,Whoever said money can't buy happiness didn't know where to shop.
+Aging,Funny,Age is merely the number of years the world has been enjoying you.
+Exercise,Funny,I'm in shape. Round is a shape.
+Kids,Funny,Having children is like being pecked to death by a duck.
+Housework,Funny,Housework can't kill you but why take a chance?
+Budgeting,Funny,My budget has cried itself to sleep again.
+Meetings,Funny,I survived another meeting that should have been an email.
+Fashion,Funny,I'm not wearing pajamas. These are my daytime comfort clothes.
+Adventure,Happy,Adventure awaits those brave enough to seek it.
+Calmness,Happy,In the calm there is clarity.
+Delight,Happy,Find delight in the details.
+Enthusiasm,Happy,Enthusiasm is the electricity of life.
+Fulfillment,Happy,True fulfillment comes from within not without.
+Glee,Happy,Moments of glee make life worth living.
+Humor,Happy,A day without laughter is a day wasted.
+Inspiration,Happy,Inspiration exists but it has to find you working.
+Joy,Happy,Joy does not simply happen to us. We have to choose joy and keep choosing it.
+Kindness,Happy,Kindness is a language the blind can see and the deaf can hear.
+Bravery,Motivational,Being brave means knowing that when you fail you don't fail forever.
+Conviction,Motivational,Stand for something or you'll fall for anything.
+Diligence,Motivational,Diligence is the mother of good fortune.
+Excellence,Motivational,Excellence is not a skill. It's an attitude.
+Faith,Motivational,Faith is taking the first step even when you don't see the whole staircase.
+Greatness,Motivational,Greatness is not found in possessions power or prestige. It is discovered in goodness humility service and character.
+Honor,Motivational,Honor is not a virtue in itself but the frame which supports other virtues.
+Innovation,Motivational,Innovation distinguishes between a leader and a follower.
+Journey,Motivational,The journey of a thousand miles begins with one step.
+Knowledge,Motivational,Knowledge is power. Information is liberating. Education is the premise of progress.
+Birdsong,Nature,Birdsong is nature's alarm clock – beautiful enough to wake up for.
+Breeze,Nature,Even the gentlest breeze can change the course of a day.
+Cliff,Nature,Some of the most beautiful views come after the hardest climbs.
+Dewdrop,Nature,In a dewdrop the universe is reflected.
+Eclipse,Nature,An eclipse reminds us that even the sun needs a break sometimes.
+Fog,Nature,Sometimes the path ahead is clearest when we can't see too far.
+Grove,Nature,In a quiet grove ancient trees whisper old stories.
+Islet,Nature,An islet in the sea is proof that the earth never surrenders to water.
+Jungle,Nature,In the jungle of life only the adaptable survive.
+Lagoon,Nature,A lagoon is the ocean's way of taking a timeout.
+Awakening,Philosophical,The moment of awakening is when a fish realizes it's swimming in water.
+Belief,Philosophical,Your beliefs don't make you a better person your behavior does.
+Curiosity,Philosophical,Curiosity is the wick in the candle of learning.
+Dilemma,Philosophical,In every dilemma there is opportunity.
+Essence,Philosophical,The essence of all beautiful art is gratitude.
+Fate,Philosophical,Fate whispers to the warrior 'You cannot withstand the storm.' The warrior whispers back 'I am the storm.'
+Genuine,Philosophical,Be genuine because being anything else is exhausting.
+Humanity,Philosophical,The sole meaning of life is to serve humanity.
+Insight,Philosophical,An insight is worth a thousand opinions.
+Justice,Philosophical,Justice will not be served until those who are unaffected are as outraged as those who are.
+Ballad,Poetic,Every life writes its own ballad.
+Elegy,Poetic,Time turns memories to elegies.
+Free Verse,Poetic,Live like free verse – unbound by convention.
+Hexameter,Poetic,Some days flow like perfect hexameter.
+Imagery,Poetic,Paint your life with the imagery of dreams.
+Juxtaposition,Poetic,In the juxtaposition of joy and sorrow we find the fullness of life.
+Kinesthesia,Poetic,The kinesthesia of existence is felt in every breath.
+Lyrical,Poetic,Find the lyrical moments in mundane days.
+Metonymy,Poetic,We are all metonymies for the experiences that shape us.
+Narrative,Poetic,Your life is a narrative only you can write.
+Adoration,Emotional,Adoration is the daughter of ignorance.
+Bewilderment,Emotional,In bewilderment there is growth and possibility.
+Curiosity,Emotional,Curiosity is the lust of the mind.
+Determination,Emotional,The difference between the impossible and possible lies in determination.
+Elation,Emotional,Elation is the clicking of the seat belt when you finally let go.
+Frustration,Emotional,Frustration is not having anyone to blame but yourself.
+Gratitude,Emotional,Gratitude can transform common days into thanksgivings.
+Hostility,Emotional,Hostility is an expensive luxury not everyone can afford.
+Indifference,Emotional,The opposite of love is not hate it's indifference.
+Jubilation,Emotional,Jubilation comes not from what happens to us but from what happens in us.
+Anima,Spiritual,The anima is the unconscious feminine side of a man.
+Bardo,Spiritual,The bardo is not just the interval between death and rebirth but also between any two moments.
+Chi,Spiritual,Chi is the vital life force that flows through all living things.
+Divination,Spiritual,Divination is looking into the seeds of time to see which grain will grow.
+Esoteric,Spiritual,The esoteric path is walked by few but known by many.
+Forgiveness,Spiritual,Forgiveness is unlocking the door to set someone free and realizing you were the prisoner.
+Gnosis,Spiritual,Gnosis is knowledge of spiritual mysteries.
+Holy,Spiritual,The holy is hidden in the ordinary.
+Incantation,Spiritual,Every prayer is an incantation reaching into the divine.
+Jnana,Spiritual,Jnana is the path of knowledge to liberation.
+Awkward,Funny,I'm not awkward you're just basic.
+Bathroom,Funny,The bathroom is my thinking room. The shower has become my podium.
+Calories,Funny,A balanced diet is a cookie in each hand.
+Dieting,Funny,I'm not dieting. I'm just not eating because I forgot and now I'm too lazy to make something.
+Exhaustion,Funny,My bed and I are perfect for each other but my alarm clock keeps breaking us up.
+Finances,Funny,My financial plan is to win the lottery.
+Gossip,Funny,Gossip is just a selfie of our insecurities.
+Housework,Funny,I'm not messy I'm creatively organized.
+Intelligence,Funny,If intelligence was contagious I'd try to sneeze on you.
+Jokes,Funny,I don't make jokes I just report facts in a humorous way.
+Abundance,Happy,Abundance is not something we acquire it's something we tune into.
+Blessing,Happy,Count your blessings not your problems.
+Cheer,Happy,The best way to cheer yourself up is to try to cheer somebody else up.
+Dream,Happy,The future belongs to those who believe in the beauty of their dreams.
+Euphoria,Happy,Euphoria comes from living your authentic self.
+Fortune,Happy,The greatest fortune is a heart full of love.
+Grace,Happy,Grace is the beauty of form under the influence of freedom.
+Hope,Happy,Hope is the only bee that makes honey without flowers.
+Intimacy,Happy,Intimacy is not who you let touch you. Intimacy is who you text at 3am about your dreams and fears.
+Jubilance,Happy,Jubilance is the emotion of having accomplished a difficult task.
+Boldness,Motivational,Fortune favors the bold.
+Courage,Motivational,Courage is resistance to fear mastery of fear not absence of fear.
+Dedication,Motivational,The price of success is hard work dedication to the job at hand.
+Energy,Motivational,Energy and persistence conquer all things.
+Firepower,Motivational,Your inner firepower is stronger than any obstacle.
+Growth,Motivational,The only way to grow is to challenge yourself.
+Hustle,Motivational,Good things happen to those who hustle.
+Improvement,Motivational,Small improvements over time lead to stunning results.
+Journey,Motivational,Focus on the journey not the destination.
+Keenness,Motivational,Success comes from having keenness of vision and steadiness of purpose.
+Lake,Nature,A lake carries you into recesses of feeling otherwise impenetrable.
+Meadow,Nature,A meadow of wildflowers tells the story of resilience.
+Nebula,Nature,We are all made of star stuff like nebulas in the night sky.
+Ocean,Nature,The ocean stirs the heart inspires the imagination and brings eternal joy.
+Paradise,Nature,Paradise is not a place it's a feeling.
+Quietude,Nature,In nature's quietude we hear our true selves.
+Ravine,Nature,Every ravine was once a place where water refused to give up.
+Snowflake,Nature,Every snowflake is a masterpiece of design.
+Tempest,Nature,After every tempest comes a calm.
+Underwater,Nature,The underwater world reminds us how little we truly know.
+Knowledge,Philosophical,Knowledge speaks but wisdom listens.
+Logos,Philosophical,The logos is the rational principle that governs the universe.
+Mind,Philosophical,The mind is not a vessel to be filled but a fire to be kindled.
+Nihilism,Philosophical,In facing nihilism we create our own meaning.
+Objectivity,Philosophical,True objectivity is recognizing your own subjectivity.
+Pathos,Philosophical,Pathos is the bridge between minds.
+Qualia,Philosophical,Qualia are the raw feels of conscious experience.
+Relativism,Philosophical,In relativism we find not truth but understanding.
+Solipsism,Philosophical,Solipsism is the ultimate loneliness.
+Teleology,Philosophical,Every life has its own teleology.
+Ode,Poetic,Life is an ode to the persistent soul.
+Pastoral,Poetic,Find your pastoral peace amid urban chaos.
+Quatrain,Poetic,Each day is a quatrain in life's endless poem.
+Rhythm,Poetic,Find your rhythm in the chaos of everyday life.
+Stanza,Poetic,Every experience is a stanza in your personal epic.
+Tragedy,Poetic,In every tragedy there is the possibility of transformation.
+Utterance,Poetic,Let your utterances be seeds of kindness.
+Verse,Poetic,Live your days verse by verse not all at once.
+Wordplay,Poetic,In wordplay we find the joy of language.
+Xenolith,Poetic,Be a xenolith – unique even in foreign surroundings.
+Kindness,Emotional,Kindness is a language which the deaf can hear and the blind can see.
+Longing,Emotional,Longing is the agony of the nearness of the distant.
+Melancholy,Emotional,Melancholy is the happiness of being sad.
+Nostalgia,Emotional,Nostalgia is a sunset that the heart paints when the sun goes down.
+Optimism,Emotional,Optimism is the faith that leads to achievement.
+Passion,Emotional,Passion is energy. Feel the power that comes from focusing on what excites you.
+Quiescence,Emotional,In quiescence we find our center.
+Rage,Emotional,Rage is just fear on fire.
+Serenity,Emotional,Serenity isn't freedom from the storm but peace within it.
+Tenderness,Emotional,Tenderness is what happens to the heart when it's touched by compassion.
+Kundalini,Spiritual,Kundalini is the coiled energy at the base of the spine waiting to rise.
+Luminosity,Spiritual,Luminosity is the natural state of the awakened mind.
+Mantra,Spiritual,A mantra is an instrument of the mind.
+Nirvana,Spiritual,Nirvana is not a place but a state of mind.
+Om,Spiritual,Om is the primordial sound of the universe.
+Prana,Spiritual,Prana is the universal life force that flows through all living beings.
+Quiescence,Spiritual,In quiescence the soul finds its true voice.
+Reverence,Spiritual,Reverence is the acknowledgment of something greater than ourselves.
+Samadhi,Spiritual,Samadhi is absorption in the universal consciousness.
+Transcendence,Spiritual,Transcendence is finding yourself by losing yourself.
+Kitchen,Funny,My kitchen is for dancing not for cooking.
+Laundry,Funny,Laundry: Because all my clothes have to get dirty at once.
+Motivation,Funny,"My motivation levels are somewhere between ""just do it"" and ""just wing it."""
+Napping,Funny,Napping is my superpower.
+Overthinking,Funny,I'm an overthinker with anxiety and confidence issues. What could possibly go wrong?
+Procrastination,Funny,Procrastination taught me how to do 30 minutes of work in 8 hours and 8 hours of work in 30 minutes.
+Quitting,Funny,I'm thinking of quitting my job and becoming a professional lottery winner.
+Relatives,Funny,Relatives are like fish. After three days they stink.
+Sarcasm,Funny,Sarcasm – because beating people with sticks is illegal.
+Television,Funny,My favorite exercise is a cross between a lunge and a crunch. I call it lunch.
+Kindness,Happy,Kindness is like snow – it beautifies everything it covers.
+Laughter,Happy,Laughter is carbonated holiness.
+Merriment,Happy,Merriment is medicine for the soul.
+Nirvana,Happy,Nirvana is here in the simple joys.
+Optimism,Happy,Optimism is the faith that leads to achievement.
+Pleasure,Happy,Pleasure in the job puts perfection in the work.
+Quiet joy,Happy,There is a quiet joy in simply being.
+Radiance,Happy,Your radiance comes from within.
+Sunshine,Happy,Keep your face always toward the sunshine.
+Tranquility,Happy,Tranquility is found in accepting what you cannot change.
+Legacy,Motivational,Legacy is not leaving something for people. It's leaving something in people.
+Momentum,Motivational,Momentum is what happens when you keep showing up.
+Nobility,Motivational,True nobility is being superior to your former self.
+Optimism,Motivational,Optimism is the foundation of courage.
+Purpose,Motivational,Those who have a 'why' to live can bear almost any 'how.'
+Quest,Motivational,Every worthy quest begins with a single step.
+Resolve,Motivational,With enough resolve any obstacle becomes an opportunity.
+Stamina,Motivational,Mental stamina outlasts physical ability every time.
+Tenacity,Motivational,It's not that I'm so smart it's just that I stay with problems longer.
+Unwavering,Motivational,Be unwavering in pursuit but flexible in strategy.
+Valley,Nature,Valleys are reminders that not all growth is upward.
+Waterfall,Nature,Be like a waterfall – wild and free.
+Xenolith,Nature,Like a xenolith stand unique even in foreign surroundings.
+Yonder,Nature,What lies yonder is worth the journey.
+Zenith,Nature,Every mountain has its zenith every person their peak.
+Azalea,Nature,Like the azalea bloom where you're planted.
+Bamboo,Nature,Be like bamboo – flexible yet unbreakable.
+Cascade,Nature,Life cascades forward never back.
+Daybreak,Nature,Every daybreak offers a fresh start.
+Earth,Nature,The Earth has music for those who listen.
+Understanding,Philosophical,Understanding requires standing under your assumptions.
+Virtue,Philosophical,Virtue is bold and goodness never fearful.
+Wonder,Philosophical,Wonder is the beginning of wisdom.
+Xenial,Philosophical,Be xenial – hospitable to all ideas and people.
+Yearning,Philosophical,Yearning is the compass of the soul.
+Zeitgeist,Philosophical,We are all children of our zeitgeist.
+Axiom,Philosophical,Live by your own axioms not borrowed ones.
+Becoming,Philosophical,Life is not about being but becoming.
+Consilience,Philosophical,In consilience we find hidden truths.
+Dialectic,Philosophical,Growth happens in the dialectic between comfort and challenge.
+Yearning,Poetic,Yearning is the echo of possibility.
+Zenith,Poetic,Every life has its zenith if we are brave enough to reach for it.
+Acrostic,Poetic,Your life is an acrostic – read between the lines.
+Brevity,Poetic,In brevity we find clarity.
+Couplet,Poetic,Some days rhyme like perfect couplets.
+Diction,Poetic,Your diction becomes your distinction.
+Epiphany,Poetic,Epiphanies come to those who listen.
+Unease,Emotional,In unease we find the motivation for change.
+Vulnerability,Emotional,Vulnerability is not winning or losing; it's having the courage to show up.
+Wonder,Emotional,Wonder is the beginning of wisdom.
+Xenophilia,Emotional,Xenophilia – the love of the different and strange – opens new worlds.
+Yearning,Emotional,Yearning is the soul's way of pointing north.
+Zeal,Emotional,Zeal without knowledge is fire without light.
+Ardor,Emotional,Ardor makes the impossible possible.
+Bliss,Emotional,Bliss is not a destination but a way of traveling.
+Catharsis,Emotional,In catharsis we release what no longer serves us.
+Delight,Emotional,Delight in the simple pleasures.
+Unity,Spiritual,Unity is strength... when there is teamwork and collaboration wonderful things can be achieved.
+Veda,Spiritual,The Vedas are the breath of the eternal.
+Wakefulness,Spiritual,Wakefulness is discovering what you already knew.
+Xenophilia,Spiritual,Spiritual xenophilia opens us to divine wisdom from unexpected sources.
+Yoga,Spiritual,Yoga is the journey of the self through the self to the self.
+Zazen,Spiritual,In zazen we find the mind beneath thought.
+Ananda,Spiritual,Ananda is the bliss that passeth understanding.
+Bhakti,Spiritual,Bhakti is devotion born of the heart not the mind.
+Cosmos,Spiritual,The cosmos is within us. We are made of star-stuff.
+Devout,Spiritual,The devout heart sees divinity everywhere.
+Umbrella,Funny,My umbrella strategy: forget it at home and hope for the best.
+Vacation,Funny,Vacation calories don't count.
+Wallet,Funny,My wallet is like an onion. Opening it makes me cry.
+Xmas,Funny,Xmas shopping is like a box of chocolates – expensive and gone too quickly.
+Yoga,Funny,I tried yoga once. My downward dog looked more like a confused turtle.
+Zoom,Funny,"On Zoom calls, I'm business on top, pajamas on bottom."
+Adulting,Funny,Adulting: when your Netflix asks if you're still watching and you feel personally attacked.
+Banking,Funny,Banking is just math with consequences.
+Cooking,Funny,"When I cook, even the smoke alarm cheers me on."
+Deadlines,Funny,Deadlines are just a suggestion... right?
+Validation,Happy,Seek validation from yourself not others.
+Wonder,Happy,Wonder is the beginning of all wisdom.
+Xanadu,Happy,Create your own Xanadu wherever you are.
+Yearning,Happy,Let your yearning guide you to your purpose.
+Zest,Happy,Live with zest and die with no regrets.
+Allure,Happy,There's allure in everyday moments if we look closely.
+Bliss,Happy,Bliss is found in the ordinary moments.
+Cherish,Happy,Cherish today because yesterday is gone and tomorrow is uncertain.
+Delight,Happy,Take delight in the little things.
+Ecstasy,Happy,Ecstasy is found in fully living each moment.
+Victory,Motivational,Victory belongs to the most persevering.
+Willpower,Motivational,Willpower is the key that unlocks potential.
+X-factor,Motivational,Your X-factor isn't what makes you special; it's what makes you effective.
+Yield,Motivational,Never yield to the apparently overwhelming might of the enemy.
+Zeal,Motivational,Zeal without knowledge is fire without light.
+Aspiration,Motivational,Aspiration sees only one side of every question; possession many.
+Boldness,Motivational,Boldness has genius power and magic in it.
+Creativity,Motivational,Creativity is intelligence having fun.
+Drive,Motivational,Drive is what takes you from point A to point B.
+Erosion,Nature,Like erosion we are shaped by persistent forces not single events.
+Forest,Nature,In the forest we return to reason and faith.
+Glacier,Nature,Be like a glacier – unstoppable though slow-moving.
+Horizon,Nature,The horizon is not so far as we can see but as far as we can imagine.
+Island,Nature,Every person is an island connected by the sea of humanity.
+Jungle,Nature,In the jungle of life only the adaptable survive.
+Karst,Nature,Like karst landscapes hidden depths lie beneath the surface.
+Landscape,Nature,The landscape echoes the contours of the soul.
+Mesa,Nature,Stand tall like a mesa – weathered but unbroken.
+Nebula,Nature,We are all nebulae – collections of stardust forming something beautiful.
+Epistemology,Philosophical,Your epistemology determines what truths you're capable of seeing.
+Finitude,Philosophical,In our finitude we glimpse infinity.
+Gnosis,Philosophical,Gnosis is knowledge of spiritual mysteries.
+Hermeneutics,Philosophical,Your hermeneutics color everything you experience.
+Ideology,Philosophical,Question your ideology before it questions you.
+Justice,Philosophical,Justice is truth in action.
+Kairos,Philosophical,Kairos is the right moment when opportunity meets preparation.
+Liberty,Philosophical,Liberty is being free from the things we don't need.
+Metaphysics,Philosophical,Your metaphysics determines your ethics.
+Noesis,Philosophical,Noesis is the exercise of reason in apprehending eternal truths.
+Fable,Poetic,Your life is not history but fable.
+Ghazal,Poetic,Like a ghazal life repeats its important themes.
+Haiku,Poetic,Life is a haiku – brief profound and beautiful.
+Iambic,Poetic,Find your iambic rhythm in daily life.
+Jargon,Poetic,Avoid jargon – speak plainly and from the heart.
+Koan,Poetic,Some truths are koans – understood only through paradox.
+Litotes,Poetic,Life is not unimportant.
+Meter,Poetic,Find your own meter in life's symphony.
+Narrative,Poetic,You are not just living your narrative – you are writing it.
+Onomatopoeia,Poetic,Be the boom crash pow of your own story.
+Enthusiasm,Emotional,Enthusiasm is the electricity of life.
+Fury,Emotional,Fury is a quiet thing.
+Glee,Emotional,Glee is the oil in life's engine.
+Heartache,Emotional,Heartache is the price of having loved.
+Intimidation,Emotional,Intimidation is the confession of inferiority.
+Jealousy,Emotional,Jealousy is all the fun you think they had.
+Keenness,Emotional,Keenness of feeling separates the living from the merely existing.
+Love,Emotional,Love is the only reality and it is not a mere sentiment.
+Melancholy,Emotional,Melancholy is the pleasure of being sad.
+Nervousness,Emotional,Nervousness is the handmaiden of creativity.
+Ecstasy,Spiritual,Ecstasy is unity with the divine.
+Fana,Spiritual,Fana is the annihilation of the self in the divine.
+Grace,Spiritual,Grace is the breath of the divine within us.
+Hermetic,Spiritual,"As above, so below is the hermetic truth of existence."
+Ineffable,Spiritual,The most important truths are ineffable.
+Journey,Spiritual,The spiritual journey is the unlearning of fear and the acceptance of love.
+Kaivalya,Spiritual,Kaivalya is absolute independence from conditional existence.
+Light,Spiritual,You are not a drop in the ocean. You are the entire ocean in a drop.
+Mysticism,Spiritual,Mysticism is the direct experience of divine reality.
+Numinous,Spiritual,The numinous is found in the ordinary.
+Embarrassing,Funny,Embarrassing moments: the gift that keeps on giving in my mind at 3am.
+Failure,Funny,Failure is not an option. It's a requirement. Success is optional.
+Gambling,Funny,Life is a gamble... so is crossing the street. But I do it anyway.
+Humor,Funny,Humor is just tragedy plus time.
+Internet,Funny,The internet is just a world passing around notes in a classroom.
+Jogging,Funny,Jogging is the best way to hear your body scream.
+Knowledge,Funny,Knowledge is knowing a tomato is a fruit; wisdom is not putting it in a fruit salad.
+Laziness,Funny,Laziness is the mother of efficiency.
+Multitasking,Funny,I'm multitasking: irritating multiple people at once.
+Nostalgia,Funny,Nostalgia is like a grammar lesson: you find the present tense and the past perfect.
+Felicity,Happy,Felicity is not in doing what one likes but in liking what one does.
+Gratitude,Happy,Gratitude turns what we have into enough.
+Harmony,Happy,Harmony is when what you think say and do are in agreement.
+Imagination,Happy,Imagination is the eye of the soul.
+Journey,Happy,The journey itself is home.
+Kismet,Happy,Kismet brings the right people at the right time.
+Liberty,Happy,Liberty is the right to choose. Freedom is the result of the right choices.
+Mirth,Happy,Mirth is God's medicine.
+Nirvana,Happy,Nirvana is here and now.
+Openness,Happy,Openness invites inspiration.
+Balance,Spiritual,Balance isn't something you find; it's something you create.
+Connection,Spiritual,Connection is why we're here; it is what
+Mountains,Nature,Mountains call and I must go.
+Ocean,Nature,"The ocean stirs the heart, inspires the imagination, and brings eternal joy."
+Forest,Nature,The clearest way into the universe is through a forest wilderness.
+Sunset,Nature,Sunsets are proof that endings can be beautiful too.
+Rivers,Nature,"Life flows like a river, finding its way around every obstacle."
+Stars,Nature,Look up at the stars and not down at your feet.
+Flowers,Nature,"Where flowers bloom, so does hope."
+Seasons,Nature,"Seasons change, and so do we."
+Rain,Nature,"Some people feel the rain, others just get wet."
+Wildlife,Nature,"In every walk with nature, one receives far more than they seek."
+Solitude,Philosophical,In solitude I found the universe within me.
+Time,Philosophical,Time is just a construct that helps us make sense of infinity.
+Perception,Philosophical,Reality is merely an illusion albeit a very persistent one.
+Truth,Philosophical,The truth has a certain resonance that lies can never achieve.
+Shadow,Philosophical,We are all just shadows dancing in the light of consciousness.
+Thoughts,Philosophical,Thoughts become things. Choose the good ones.
+Wisdom,Philosophical,Wisdom begins in wonder and ends in understanding.
+Mystery,Philosophical,"Life isn't about finding yourself, it's about creating yourself."
+Purpose,Philosophical,Purpose is that tiny light that guides you through the darkest nights.
+Existence,Philosophical,To exist is rare. Most people just live.
+Books,Poetic,Books are lighthouses erected in the great sea of time.
+Rain,Poetic,The rain whispers stories the sun will never know.
+Music,Poetic,Music is what feelings sound like when they escape the heart.
+Sunrise,Poetic,Each sunrise is a poem written on the earth with words of light.
+Memory,Poetic,Memories are the echoes of moments that refuse to be forgotten.
+Autumn,Poetic,Autumn shows us how beautiful it is to let things go.
+Whispers,Poetic,Some truths are better told in whispers.
+Dreams,Poetic,Dreams are the shadows of reality dancing in moonlight.
+Heartbeat,Poetic,My heartbeat writes poems in morse code.
+Wind,Poetic,The wind carries messages from places I've yet to see.
+Longing,Emotional,I am homesick for places I've never been.
+Melancholy,Emotional,There's a certain kind of sadness that feels like coming home.
+Hope,Emotional,Hope is the lighthouse that guides us through the storms of life.
+Empathy,Emotional,The world needs more people who know how to return a feeling.
+Loss,Emotional,Some missing pieces can never be replaced.
+Joy,Emotional,Joy comes in moments so small they can fit in the palm of your hand.
+Sorrow,Emotional,"Sorrow is just love with nowhere to go, so it stays inside."
+Wonder,Emotional,"Wonder is the beginning of wisdom, and wisdom begins with wonder."
+Love,Emotional,"Love isn't perfect. It's perfectly imperfect, like us."
+Despair,Emotional,Even in the darkest moments a tiny star of hope still shines.
+Cosmos,Spiritual,We are the universe experiencing itself.
+Karma,Spiritual,How people treat you is their karma; how you react is yours.
+Awakening,Spiritual,Awakening is not changing who you are but discarding who you are not.
+Soul,Spiritual,Your soul is the part of you that longs for meaning.
+Mindfulness,Spiritual,The present moment is filled with joy and happiness. If you are attentive you will see it.
+Breath,Spiritual,Between stimulus and response there is a space. In that space is our power.
+Consciousness,Spiritual,Consciousness is the greatest gift and the greatest mystery.
+Infinity,Spiritual,Your mind can only comprehend what your heart is ready to accept.
+Peace,Spiritual,Inner peace begins when you choose not to allow others to control your emotions.
+Harmony,Spiritual,Harmony is found in the balance between what you think and what you do.
+Coffee,Funny,I need coffee to help me change from grumpy to slightly less grumpy.
+Nap,Funny,Naps are my favorite extreme sport.
+Chocolate,Funny,Chocolate doesn't ask questions. Chocolate understands.
+WiFi,Funny,Home is where the WiFi connects automatically.
+Workout,Funny,I thought about exercising today. That's like four calories right there.
+Monday,Funny,"Dear Monday, I want to break up. I'm seeing Tuesday and dreaming about Friday."
+Diet,Funny,"I'm not saying I'm Wonder Woman, I'm just saying no one has ever seen me and Wonder Woman in the same room."
+Alarm,Funny,My alarm clock is clearly broken. It goes off when I'm still tired.
+Shopping,Funny,"Shopping is my cardio, and credit card is my personal trainer."
+Tech,Funny,I don't need therapy. I just need my phone charged.
+Friendship,Happy,Good friends are like stars. You don't always see them but you know they're always there.
+Smile,Happy,A smile is the prettiest thing you can wear.
+Travel,Happy,Happiness is a journey not a destination.
+Kindness,Happy,"Be the reason someone smiles today, or the reason they drink. Whatever works."
+Serenity,Happy,Finding beauty in the ordinary creates extraordinary joy.
+Celebration,Happy,Life is a party and you're the guest of honor.
+Dance,Happy,Dance like no one is watching (because they're all checking their phones).
+Laughter,Happy,Laughter is timeless. Imagination has no age. Dreams are forever.
+Optimism,Happy,The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.
+Gratitude,Happy,Gratitude turns what we have into enough.
+Achievement,Motivational,The difference between who you are and who you want to be is what you do.
+Mindset,Motivational,Whether you think you can or think you can't - you're right.
+Discipline,Motivational,Discipline is choosing between what you want now and what you want most.
+Effort,Motivational,Dreams don't work unless you do.
+Resilience,Motivational,Rock bottom became the solid foundation on which I rebuilt my life.
+Growth,Motivational,Comfort is the enemy of progress.
+Focus,Motivational,Focus on the step in front of you not the whole staircase.
+Passion,Motivational,"The only way to do great work is to love what you do. If you haven't found it yet, keep looking."
+Courage,Motivational,Courage is not having the strength to go on; it is going on when you don't have the strength.
+Success,Motivational,Success is not final; failure is not fatal. It's the courage to continue that counts.
+Beach,Nature,The sound of waves is nature's lullaby to a restless soul.
+Sky,Nature,The sky is the daily bread of the eyes.
+Waterfall,Nature,In every drop of water there is a story of life.
+Wilderness,Nature,In wilderness I sense the miracle of life.
+Trees,Nature,The best time to plant a tree was 20 years ago. The second best time is now.
+Horizon,Nature,The horizon is not so far as we can see but as far as we can imagine.
+Mountain,Nature,The mountains are calling and I must go.
+Desert,Nature,The desert tells a different story every time one ventures on it.
+Sunrise,Nature,Every sunrise is an invitation to brighten someone's day.
+Moonlight,Nature,Moonlight drowns out all but the brightest stars.
+Patience,Philosophical,Patience is not the ability to wait but how you act while waiting.
+Doubt,Philosophical,Doubt is not a pleasant condition but certainty is an absurd one.
+Change,Philosophical,The only constant in life is change.
+Freedom,Philosophical,Freedom is not the absence of commitments but the ability to choose.
+Balance,Philosophical,Life is about balance. Be kind but don't let people abuse you.
+Chaos,Philosophical,Even in chaos there is beauty. Even in darkness there is light.
+Journey,Philosophical,Life is a journey not a destination.
+Destiny,Philosophical,Destiny is not a matter of chance; it is a matter of choice.
+Reality,Philosophical,Reality is created by the mind. We can change our reality by changing our mind.
+Simplicity,Philosophical,Simplicity is the ultimate sophistication.
+Heartache,Emotional,Sometimes the heart sees what is invisible to the eye.
+Empathy,Emotional,Empathy is seeing with the eyes of another and feeling with the heart of another.
+Nostalgia,Emotional,Nostalgia is a file that removes the rough edges from the good old days.
+Happiness,Emotional,Happiness is not something ready-made. It comes from your own actions.
+Regret,Emotional,The only things we regret are the chances we didn't take.
+Passion,Emotional,Passion is energy. Feel the power that comes from focusing on what excites you.
+Contentment,Emotional,Contentment is not the fulfillment of what you want but the realization of how much you already have.
+Bittersweet,Emotional,Every new beginning comes from some other beginning's end.
+Heartbreak,Emotional,Hearts will never be practical until they are made unbreakable.
+Euphoria,Emotional,Euphoria is that moment when you know you are in the right place at the right time.
+Divinity,Spiritual,The divine is not something high above us. It is in heaven it is in earth it is inside us.
+Alchemy,Spiritual,The alchemy of life is turning pain into poetry.
+Serenity,Spiritual,Serenity comes when you trade expectations for acceptance.
+Transcendence,Spiritual,We are not human beings having a spiritual experience. We are spiritual beings having a human experience.
+Energy,Spiritual,Energy cannot be created or destroyed it can only change forms.
+Intuition,Spiritual,Intuition is the whisper of the soul.
+Presence,Spiritual,The present moment is the only moment available to us and it is the door to all moments.
+Ritual,Spiritual,Rituals are the formulas by which harmony is restored.
+Truth,Spiritual,The truth will set you free but first it will make you miserable.
+Healing,Spiritual,Healing doesn't mean the damage never existed. It means the damage no longer controls our lives.
+Overthinking,Funny,My mind is like my internet browser: 19 tabs open 3 of them are frozen and I have no idea where the music is coming from.
+Laundry,Funny,The amount of laundry I have to do keeps me from doing laundry.
+Working,Funny,I'm not procrastinating. I'm just extremely productive at unimportant things.
+Parents,Funny,My parents didn't raise me to be second. They raised me to be first. But second is fine too I guess.
+Office,Funny,My job is secure. Nobody else wants it.
+Cooking,Funny,"I'm on a seafood diet. I see food, and I eat it."
+Budget,Funny,My wallet is like an onion. When I open it I cry.
+Workout,Funny,My idea of a perfect body is one with a Nutella jar in each hand.
+Sleep,Funny,My bed is a magical place where I suddenly remember everything I was supposed to do.
+Cleaning,Funny,I cleaned my house yesterday. I should have taken before and after pictures. It's a twelve-hour difference.
+Spontaneity,Happy,The best things happen unexpectedly.
+Enjoyment,Happy,Enjoy the little things for one day you may look back and realize they were the big things.
+Positivity,Happy,Positive mind. Positive vibes. Positive life.
+Relaxation,Happy,Sometimes the most productive thing you can do is relax.
+Experience,Happy,Life is either a daring adventure or nothing at all.
+Carefree,Happy,Worrying is stupid. It's like walking around with an umbrella waiting for it to rain.
+Peace,Happy,Peace comes from within. Do not seek it without.
+Pleasure,Happy,Find pleasure in the simple things.
+Satisfaction,Happy,To be without some of the things you want is an indispensable part of happiness.
+Delight,Happy,Life is delicious. Bite by bite and moment by moment.
+Inspiration,Motivational,The only limit to our realization of tomorrow will be our doubts of today.
+Grit,Motivational,Grit is that extra something that separates the most successful people from the rest.
+Endurance,Motivational,Endurance is not just the ability to bear a hard thing but to turn it into glory.
+Opportunity,Motivational,In the middle of difficulty lies opportunity.
+Victory,Motivational,Victory belongs to the most persevering.
+Dedication,Motivational,The price of success is hard work dedication to the job at hand.
+Dreams,Motivational,Don't dream your life live your dreams.
+Hustle,Motivational,Good things come to those who hustle.
+Belief,Motivational,Believe you can and you're halfway there.
+Persistence,Motivational,Energy and persistence conquer all things.
+Garden,Nature,To plant a garden is to believe in tomorrow.
+Butterfly,Nature,Butterflies are self-propelled flowers.
+Lake,Nature,A lake is the landscape's most beautiful and expressive feature.
+Meadow,Nature,A meadow of flowers is nature's poem to life.
+Cliff,Nature,Standing on the edge of a cliff makes you realize what matters in life.
+Valley,Nature,The valley shines with the light of newfound perspective.
+Seashore,Nature,The seashore is not a place to work; it is a place to be.
+Cave,Nature,Some beautiful paths can't be discovered without getting lost.
+Waterfall,Nature,Life is like a waterfall. It is always moving and there is always an uneven flow.
+Thunderstorm,Nature,Thunderstorms are as perfect as a sleeping child.
+Memories,Poetic,Memories are the diary we all carry about with us.
+Twilight,Poetic,Twilight drops her curtain down and pins it with a star.
+Candlelight,Poetic,A candle loses nothing by lighting another candle.
+Starlight,Poetic,The stars are the street lights of eternity.
+Fireflies,Poetic,Fireflies are stars that have come down to earth.
+Melodies,Poetic,Life is a melody of opportunities.
+Storytelling,Poetic,Everyone is a story. What's yours?
+Sonnets,Poetic,A life without love is like a year without summer.
+Lullaby,Poetic,The night sky is a lullaby written in starlight.
+Whispers,Poetic,The world speaks in whispers if we would only listen.
+Anxiety,Emotional,Anxiety was born in the very same moment as mankind.
+Doubt,Emotional,Doubt kills more dreams than failure ever will.
+Anticipation,Emotional,The pleasure isn't in doing the thing but in planning it all out.
+Worry,Emotional,Worry is a misuse of imagination.
+Fear,Emotional,Fear is only as deep as the mind allows.
+Relief,Emotional,Relief is just a breath away.
+Guilt,Emotional,Guilt is just another name for not enough courage.
+Shame,Emotional,Shame is the most powerful master emotion.
+Pride,Emotional,Pride is concerned with who is right. Humility is concerned with what is right.
+Content,Emotional,When you are content to be simply yourself things naturally fall into place.
+Mantra,Spiritual,A mantra is an instrument of the mind that transforms vibrations into feelings.
+Prayer,Spiritual,Prayer doesn't change things; it changes people and they change things.
+Dharma,Spiritual,Dharma is not a matter of what is right versus what is wrong but of what is appropriate versus what is inappropriate.
+Yoga,Spiritual,Yoga is the journey of the self through the self to the self.
+Meditation,Spiritual,Meditation is the dissolution of thoughts in eternal awareness.
+Gratitude,Spiritual,Gratitude turns what we have into enough.
+Compassion,Spiritual,Compassion is the radicalism of our time.
+Forgiveness,Spiritual,Forgiveness is giving up the hope that the past could have been any different.
+Grace,Spiritual,Grace is the beauty of form under the influence of freedom.
+Faith,Spiritual,Faith is taking the first step even when you don't see the whole staircase.
+Gym,Funny,The gym is like a nightclub – you pay to get in but you don't want to be there.
+Technology,Funny,I don't need anger management. I need people to stop making me angry.
+Marriage,Funny,Marriage is like a walk in the park... Jurassic Park.
+Children,Funny,Having children is like living in a frat house – nobody sleeps everything's broken and there's a lot of throwing up.
+Traffic,Funny,"Traffic is just a bunch of cars having a meeting, and I'm late for it."
+Online Shopping,Funny,The most expensive part of having kids is all the wine you have to drink.
+Autocorrect,Funny,Autocorrect has become my worst enema.
+Memory,Funny,My memory is so bad it's got its own memory.
+Diet,Funny,"I'm not saying I hate dieting, but I've been on so many that I can't even remember the taste of real food."
+Social Media,Funny,"I don't always check social media at work but when I do, I look very focused."
+Beach,Happy,Life is a beach. Enjoy the waves.
+Morning,Happy,Every morning is a new beginning.
+Freedom,Happy,Freedom is the oxygen of the soul.
+Simplicity,Happy,Simplicity is the key to brilliance.
+Contentment,Happy,Contentment is natural wealth; luxury is artificial poverty.
+Comfort,Happy,Find comfort in the chaos.
+Satisfaction,Happy,True satisfaction comes from within.
+Bliss,Happy,Bliss is dancing to the rhythm of your own heartbeat.
+Wellness,Happy,Wellness is the complete integration of body mind and spirit.
+Connection,Happy,The best connections are the ones that you didn't see coming.
+Resilience,Motivational,Life doesn't get easier. You just get stronger.
+Strength,Motivational,Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.
+Leadership,Motivational,A leader is one who knows the way goes the way and shows the way.
+Willpower,Motivational,Willpower is like a muscle: the more you train it the stronger it gets.
+Discipline,Motivational,Discipline is choosing between what you want now and what you want most.
+Consistency,Motivational,Small consistent actions lead to massive results over time.
+Confidence,Motivational,"Confidence is not ""they will like me."" It's ""I'll be fine if they don't."""
+Purpose,Motivational,When you find your purpose you find your life.
+Transformation,Motivational,Transformation is a process not an event.
+Breakthrough,Motivational,Sometimes the greatest breakthrough is simply having the courage to begin.
+Volcano,Nature,Life is a volcano that erupts thoughts and emotions.
+Glacier,Nature,Like a glacier patience levels everything in its path.
+Lightning,Nature,Lightning is impressive but it is the thunder that brings the audience to their feet.
+Desert,Nature,The desert has its holiness of silence the crowd its holiness of conversation.
+Canyon,Nature,Stand at the edge of a canyon to understand the depth of your own soul.
+Prairie,Nature,The prairie teaches us that boundaries are simply illusions.
+Hill,Nature,From the top of the hill everything seems possible.
+Cloud,Nature,Be like a cloud – free-flowing and untethered.
+Snow,Nature,Each snowflake is a masterpiece of design and no one design is ever repeated.
+Shoreline,Nature,The shoreline is where land and water write poetry together.
+Consciousness,Philosophical,Consciousness is the greatest mystery in the universe.
+Identity,Philosophical,Your identity is not in what you have but in who you are.
+Ethics,Philosophical,Ethics is knowing the difference between what you have a right to do and what is right to do.
+Morality,Philosophical,Morality is the herd-instinct in the individual.
+Paradox,Philosophical,The paradox of life is that often the things we want most are found when we're not looking for them.
+Perspective,Philosophical,Perspective is everything. Change yours and your world changes.
+Absurdity,Philosophical,Life would be tragic if it weren't funny.
+Meaning,Philosophical,Life is not a problem to be solved but a reality to be experienced.
+Ego,Philosophical,The ego is not master in its own house.
+Existentialism,Philosophical,Existence precedes essence.
+Metaphor,Poetic,Life is a metaphor waiting to be written.
+Verse,Poetic,There is poetry in the most ordinary moments.
+Lyric,Poetic,The lyrics of life are written in the small moments of joy.
+Rhyme,Poetic,Find the rhythm and rhyme in your everyday routine.
+Stanza,Poetic,Each day is a stanza in the poem of your life.
+Sonnet,Poetic,Love is like a sonnet – structured yet free.
+Haiku,Poetic,Simple moments speak volumes like a perfect haiku.
+Allegory,Poetic,Every life is an allegory waiting to unfold its meaning.
+Imagery,Poetic,The world is full of magic things patiently waiting for our senses to grow sharper.
+Elegy,Poetic,An elegy to all the moments we let slip through our fingers.
+Hope,Emotional,Hope is the thing with feathers that perches in the soul.
+Anger,Emotional,Anger is just one letter short of danger.
+Grief,Emotional,Grief is the price we pay for love.
+Sympathy,Emotional,No one ever told me that grief felt so like fear.
+Trust,Emotional,Trust takes years to build seconds to break and forever to repair.
+Jealousy,Emotional,Jealousy is the art of counting someone else's blessings instead of your own.
+Affection,Emotional,Affection is responsible for nine-tenths of whatever solid and durable happiness there is in our lives.
+Sadness,Emotional,Sadness gives depth. Happiness gives height. Sadness gives roots. Happiness gives branches.
+Desire,Emotional,Desire is the key to motivation but it's determination and commitment that unlock the door to success.
+Excitement,Emotional,Excitement is the electricity of life.
+Harmony,Spiritual,Harmony in the head harmony in the heart harmony in the hands.
+Tao,Spiritual,The Tao that can be told is not the eternal Tao.
+Zen,Spiritual,Zen is not some kind of excitement but concentration on our usual everyday routine.
+Karma,Spiritual,How people treat you is their karma; how you react is yours.
+Nirvana,Spiritual,Nirvana is not a place but a state of consciousness.
+Reincarnation,Spiritual,The soul is eternal and reincarnation is just a change of clothes.
+Aura,Spiritual,Your aura is your spiritual DNA.
+Blessing,Spiritual,Count your blessings not your problems.
+Connection,Spiritual,Everything is connected. The wing of the corn beetle affects the direction of the wind.
+Devotion,Spiritual,Devotion is not a strained obligation but a natural outpouring of love.
+Pets,Funny,My pet is not just an animal; it's a small person in a furry suit.
+Dating,Funny,Dating me is like… Well I don't know but I'm pretty sure the manual is written in Chinese.
+Cooking,Funny,I'm such a good cook that even the smoke alarm cheers me on.
+Bills,Funny,My bills are high enough to be in the NBA.
+Email,Funny,I have so many unread emails that my computer has started charging me rent.
+Work,Funny,I don't always work hard but when I do I make sure everyone on social media knows about it.
+School,Funny,School is like a broken pencil... pointless.
+Fitness,Funny,My fitness goal is to get up without making sound effects.
+Relationships,Funny,Relationships are like algebra. Have you ever looked at your X and wondered Y?
+Technology,Funny,I'm not addicted to my phone. I can stop as soon as I finish this level.
+Freedom,Happy,Freedom is not given; it is taken.
+Morning,Happy,With every rising of the sun think of your life as just begun.
+Inspiration,Happy,Life is 10% what happens to us and 90% how we react to it.
+Comfort,Happy,The greatest comfort is being able to look back and see how far you've come.
+Contentment,Happy,True contentment is a pearl of great price.
+Enjoyment,Happy,Enjoy the little things for one day you may look back and realize they were the big things.
+Pleasure,Happy,The greatest pleasure in life is doing what people say you cannot do.
+Connection,Happy,We're all just walking each other home.
+Peace,Happy,Peace is not the absence of conflict but the ability to cope with it.
+Harmony,Happy,Harmony is pure love for love is complete agreement.
+Vision,Motivational,Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.
+Ambition,Motivational,Ambition is the path to success. Persistence is the vehicle you arrive in.
